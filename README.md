@@ -20,6 +20,7 @@ We are Educational And Open Course To Making Understand All About Protocol Block
 
 
 ## Cara Berkontribusi Tulisan / Artikel (How To Contribution)
+silahkan email kami [dev@blockchains.studio](mailto:dev.blockchain.studio@gmail.com)
 
 ### Development
 
@@ -74,6 +75,6 @@ Jalankan `node ./scripts/compose.js` untuk bootstrap postingan baru.
 
 Ikuti perintah interaktif untuk membuat postingan dengan materi depan yang sudah diisi sebelumnya.
 
-## Our Sponsor
+# OUR SPONSOR AND PARTNER
 
 [Near Protocol](https://near.org/) adalah platform aplikasi terdesentralisasi yang cukup aman untuk mengelola aset bernilai tinggi seperti uang atau identitas dan cukup berkinerja untuk membuat mereka berguna untuk orang sehari-hari, menempatkan kekuatan dari web terbuka di tangan mereka.

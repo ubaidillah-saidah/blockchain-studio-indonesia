@@ -22,9 +22,6 @@ We are Educational And Open Course To Making Understand All About Protocol Block
 
 Clone proyek ini ke komputer anda, masuk ke directori dan lakukan penginstalan `yarn` atau `npm install`
 
-## Cara Berkontribusi Tulisan / Artikel (How To Contribution)
-silahkan email kami [dev@blockchains.studio](mailto:dev.blockchain.studio@gmail.com)
-
 ### Development
 
 jalankan development server:
@@ -35,9 +32,13 @@ npm start
 npm run dev
 ```
 
-Buka [http://localhost:3000](http://localhost:3000) dengan browser default anda dan lihat hasilnya.
+Buka [http://localhost:1337](http://localhost:1337) dengan browser default anda dan lihat hasilnya.
+masuk ke "Setting" > "Users & permissions plugins" > "Public" > "Permissions" dan checklist `find` dimenu Article, Category, Contributor dan Pages.
 
 Anda dapat mulai mendaftar administrator kemudian mengedit dan menambahkan konten halaman , plugin, dan juga content type builder. dan setelah selesai silahkan push ke repositori ini.
+
+## Cara Berkontribusi Tulisan / Artikel (How To Contribution)
+silahkan email kami [dev@blockchains.studio](mailto:dev.blockchain.studio@gmail.com)
 
 
 # OUR SPONSOR AND PARTNER
